@@ -1,7 +1,7 @@
 - 👋 Hello, dear colleagues! I’m @YuriBodrov (Yuri P. Bodrov)!
 - 👀 I’m interested in DevOps (I veeery like Ansible automation), Python/C#/Rust Programming.
 - 🌱 I’m currently learning some interesting automation technologies based on Ansible, Python and Shell scripting.
-- 💞️ I’m looking to collaborate on different kinds of processes automation and programming tricks. 
+- 💞️ I’m looking for collaboration on different kinds of processes automation and programming tricks. 
 - 📫 How to reach me:
   *  Telegram : @YuriBodrov
   *  Email    : bodrovyp@hotmail.com

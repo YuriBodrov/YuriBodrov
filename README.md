@@ -1,7 +1,7 @@
-- 👋 Hello, dear colleagues! I’m @YuriBodrov (Yuri P. Bodrov)!
+- 👋 Hello, dear colleagues! My Name is Yuri Bodrov.
 - 👀 I’m interested in Programming and Automatization of IT Processes (I veeery like Ansible automation), Python/C#/Rust Programming.
-- 🌱 I’m currently learning some interesting automation technologies based on Ansible, Python and Shell scripting.
-- 💞️ I’m looking for collaboration on different kinds of automation processes and programming tricks. 
+- 🌱 I’m currently learning some interesting automation technologies based on Ansible, Python and Shell Scripting.
+- 💞️ I’m looking for collaboration on different kinds of Processes Automation technics and Programming tricks. 
 - 📫 How to reach me:
   *  Telegram : @YuriBodrov
   *  Email    : bodrovyp@hotmail.com

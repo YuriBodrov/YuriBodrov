@@ -1,5 +1,5 @@
 - 👋 Hello, dear colleagues! My Name is Yuri Bodrov.
-- 👀 I’m interested in Programming and Automatization of IT Processes (I veeery like Ansible Automation and PLs : Python, C#, Rust).
+- 👀 I’m interested in Programming and Automatization of IT Processes (I veeery like Ansible Automation and these PLs : Python, C#, Rust).
 - 👀 Also, in my daily activity I use Shell, Powershell and PowerCLI Scripting Techniques.
 - 🌱 I’m currently learning some interesting automation technologies based on Ansible, Python and Shell Scripting.
 - 💞️ I’m looking for collaboration on different kinds of Processes Automation technics and Programming tricks. 

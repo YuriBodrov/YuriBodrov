@@ -6,7 +6,7 @@
 - 📫 How to reach me:
   *  Telegram : @YuriBodrov
   *  Email    : bodrovyp@hotmail.com
-  *  LinkedIN : https://www.linkedin.com/in/yuribodrov
+  *  LinkedIn : https://www.linkedin.com/in/yuribodrov
 
 It will be very nice to meet you! :-)
 

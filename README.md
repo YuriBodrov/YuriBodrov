@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming and Automatization of IT Processes (I veeery like Ansible Automation and these PLs : Python, C#, Rust).
 - 👀 Also, in my daily activity, I use Shell, Powershell and PowerCLI Scripting Techniques.
 - 🌱 I’m currently learning some interesting automation technologies based on Ansible, Python and Shell Scripting.
-- 💞️ I’m looking for collaboration on different kinds of Processes Automation technics and Programming tricks. 
+- 💞️ I’m looking for collaboration on different kinds of Processes Automation Technics and Programming Tricks. 
 - 📫 How to reach me:
   *  Telegram : @YuriBodrov
   *  Email    : bodrovyp@hotmail.com
